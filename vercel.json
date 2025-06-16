@@ -1,0 +1,9 @@
+{
+  "functions": {
+    "app/api/background/route.tsx": {
+      "maxDuration": 30
+    }
+  },
+  "regions": ["iad1", "sfo1"],
+  "buildCommand": "pnpm build"
+}
