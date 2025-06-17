@@ -1,3 +1,7 @@
+'use client'
+
+import * as React from 'react'
+
 export default function Component() {
   return (
     <div
@@ -7,7 +11,7 @@ export default function Component() {
       }}
     >
       <div className="bg-black/20 p-8 rounded-lg backdrop-blur-sm">
-        <h1 className="text-white text-4xl md:text-6xl font-bold text-center drop-shadow-lg">Welcome to my site</h1>
+        <h1 className="text-white text-4xl md:text-6xl font-bold text-center drop-shadow-lg">欢迎来到我的网站</h1>
       </div>
     </div>
   )
