@@ -5,7 +5,7 @@ export default function Component() {
     <div
       className="min-h-screen flex items-center justify-center bg-cover bg-center bg-no-repeat"
       style={{
-        backgroundImage: "url('/api/background')",
+        backgroundImage: "url('/background.png')",
       }}
     >
       <div className="bg-black/20 p-8 rounded-lg backdrop-blur-sm text-center">
